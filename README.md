@@ -5,7 +5,7 @@
 
 + Giảng viên: TS. Đỗ Như Tài
 + Email: dntai@sgu.edu.vn
-+ Website: dntai.github.io
++ Website: https://dntai.github.io
 + Zalo Group: https://zalo.me/g/yfsje1pm0ipj8osghnfs
 + Classroom: https://lms.ueh.edu.vn/course/view.php?id=38740
 
